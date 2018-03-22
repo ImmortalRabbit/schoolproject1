@@ -1,0 +1,10 @@
+/* CSS Document */
+header > h1 {border-bottom: groove;
+font-style: italic; font-size: xx-large; text-align: center; }
+table {border-spacing:15px; width: 530px;}
+th {color: #FFF; background: #000000; text-align: left;}
+td {border-bottom:1px  solid black; 
+padding: 3px; background: #33FFFF; text-align:: left; vertical-align:top;}
+p#err_msq {color: #F00; font-weight: bold;}
+
+
